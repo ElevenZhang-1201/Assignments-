@@ -15,7 +15,7 @@ Check out [Story: A Subdued Recovery, with Damage to Undo](https://www.worldbank
 
 [Expert Answers: Will the Global Economy Recover in 2021?](https://www.youtube.com/watch?v=262VIilCVEU&feature=youtu.be)
 
-[Blog: COVID-19 Response: Where We Stand Now, and the Road Ahead](Blog: COVID-19 Response: Where We Stand Now, and the Road Ahead)
+[Blog: COVID-19 Response: Where We Stand Now, and the Road Ahead](https://blogs.worldbank.org/voices/covid-19-response-where-we-stand-now-and-road-ahead)
 
 [How the World Bank Group is helping countries with COVID-19 (coronavirus)](https://www.worldbank.org/en/news/factsheet/2020/02/11/how-the-world-bank-group-is-helping-countries-with-covid-19-coronavirus)
 
