@@ -14,7 +14,7 @@ Other speakers at the event, discussing themes of sustainability, innovation, an
 
 ### Additional Information 
 
-Check out [Story: A Subdued Recovery, with Damage to Undo](https://www.worldbank.org/en/news/feature/2021/01/05/global-economic-prospects)
+[Story: A Subdued Recovery, with Damage to Undo](https://www.worldbank.org/en/news/feature/2021/01/05/global-economic-prospects)
 
 [Expert Answers: Will the Global Economy Recover in 2021?](https://www.youtube.com/watch?v=262VIilCVEU&feature=youtu.be)
 
